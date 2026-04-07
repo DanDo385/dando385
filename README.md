@@ -15,9 +15,11 @@
 
 | Project | Description | Stack | Demo |
 |---------|-------------|-------|------|
-| **[Project 1: TradFi-to-Chain Agent]** | AI agent that parses standard bond term sheets and automatically deploys compliance-gated ERC-3643 tokens. | `Go`, `Solidity`, `LoRA`, `TypeScript` | [▶️ Watch Loom](#) |
-| **[Project 2: Name]** | High-performance Geth node indexer for real-time liquidity monitoring. | `Go`, `PostgreSQL`, `EVM` | [▶️ Watch Loom](#) |
-| **[Project 3: Name]** | Next.js operator console for managing decentralized validator infrastructure. | `Next.js`, `Tailwind`, `TypeScript` | [▶️ Watch Loom](#) |
+| **[eth-l2](https://github.com/dando385/eth-l2)** | Simulating the fraud proof war game: what happens when an optimistic rollup is challenged. | `Solidity`, `EVM`, `L2` | [▶️ Watch Loom](#) |
+| **[eth-amm-sim](https://github.com/dando385/eth-amm-sim)** | Mathematical and on-chain simulation of Automated Market Maker (AMM) mechanics. | `Solidity`, `DeFi` | [▶️ Watch Loom](#) |
+| **[eth-tx-lifecycle](https://github.com/dando385/eth-tx-lifecycle)** | Low-level analysis and tracking of the complete Ethereum transaction lifecycle. | `Go`, `Geth`, `EVM` | [▶️ Watch Loom](#) |
+| **[foundry-defi-stablecoin](https://github.com/dando385/foundry-defi-stablecoin-f23)** | Algorithmic stablecoin protocol built using the Foundry framework. | `Foundry`, `Solidity` | [▶️ Watch Loom](#) |
+| **[python_followers](https://github.com/dando385/python_followers)** | Python-based social graph and network analysis tooling. | `Python` | [▶️ Watch Loom](#) |
 
 *(Note: Click the Loom links to see 2-minute technical architecture breakdowns).*
 
