@@ -11,17 +11,17 @@
 
 ---
 
-### 🚀 Featured Engineering (With Video Walkthroughs)
+### 🚀 Featured Engineering
 
-| Project | Description | Stack | Demo |
-|---------|-------------|-------|------|
-| **[eth-l2](https://github.com/dando385/eth-l2)** | Simulating the fraud proof war game: what happens when an optimistic rollup is challenged. | `Solidity`, `EVM`, `L2` | [▶️ Watch Loom](#) |
-| **[eth-amm-sim](https://github.com/dando385/eth-amm-sim)** | Mathematical and on-chain simulation of Automated Market Maker (AMM) mechanics. | `Solidity`, `DeFi` | [▶️ Watch Loom](#) |
-| **[eth-tx-lifecycle](https://github.com/dando385/eth-tx-lifecycle)** | Low-level analysis and tracking of the complete Ethereum transaction lifecycle. | `Go`, `Geth`, `EVM` | [▶️ Watch Loom](#) |
-| **[foundry-defi-stablecoin](https://github.com/dando385/foundry-defi-stablecoin-f23)** | Algorithmic stablecoin protocol built using the Foundry framework. | `Foundry`, `Solidity` | [▶️ Watch Loom](#) |
-| **[python_followers](https://github.com/dando385/python_followers)** | Python-based social graph and network analysis tooling. | `Python` | [▶️ Watch Loom](#) |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[eth-l2](https://github.com/dando385/eth-l2)** | Simulating the fraud proof war game: what happens when an optimistic rollup is challenged. | `Solidity`, `EVM`, `L2` |
+| **[eth-amm-sim](https://github.com/dando385/eth-amm-sim)** | Mathematical and on-chain simulation of Automated Market Maker (AMM) mechanics. | `Solidity`, `DeFi` |
+| **[eth-tx-lifecycle](https://github.com/dando385/eth-tx-lifecycle)** | Low-level analysis and tracking of the complete Ethereum transaction lifecycle. | `Go`, `Geth`, `EVM` |
+| **[foundry-defi-stablecoin](https://github.com/dando385/foundry-defi-stablecoin-f23)** | Algorithmic stablecoin protocol built using the Foundry framework. | `Foundry`, `Solidity` |
+| **[python_followers](https://github.com/dando385/python_followers)** | Python-based social graph and network analysis tooling. | `Python` |
 
-*(Note: Click the Loom links to see 2-minute technical architecture breakdowns).*
+<!-- (Note: Demo videos are currently in production and will be added here shortly). -->
 
 ---
 
